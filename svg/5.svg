@@ -15,51 +15,52 @@
             rect {
                   stroke: black;
                   stroke-width: 0.5;
-            }
-
-            rect:first-of-type {
-                  fill: var(--blue);
-            }
-
-            rect:nth-of-type(2) {
-                  fill: var(--yellow);
-            }
-
-            rect:nth-of-type(3) {
-                  fill: var(--green);
-            }
-
-            rect:nth-of-type(4) {
-                  fill: var(--orange);
-            }
-
-            rect:nth-of-type(5) {
                   fill: var(--grey);
             }
 
-            rect:nth-of-type(6) {
-                  fill: cyan;
-            }
-
-            rect:nth-of-type(7) {
-                  fill: yellow;
-            }
-
-            rect:nth-of-type(8) {
-                  fill: lime;
-            }
-
-            rect:nth-of-type(9) {
-                  fill: orange;
-            }
-
-            rect:nth-of-type(10) {
-                  fill: lightgrey;
+            rect:nth-of-type(5)~rect {
+                  fill: white;
             }
 
             text {
                   font-family: avenir, tahoma;
                   font-size: 0.75rem;
+            }
+
+            text:nth-of-type(1),
+            text:nth-of-type(6) {
+                  fill: white;
+            }
+
+            text:nth-of-type(2),
+            text:nth-of-type(7) {
+                  fill: red;
+            }
+
+            text:nth-of-type(3),
+            text:nth-of-type(8) {
+                  fill: blue;
+            }
+
+            text:nth-of-type(4),
+            text:nth-of-type(9) {
+                  fill: green;
+            }
+
+            text:nth-of-type(5),
+            text:nth-of-type(10) {
+                  fill: yellow;
+            }
+
+            text {
+                  --w: 1px;
+                  --c: black;
+                  text-shadow: var(--w) var(--w) 0 var(--c),
+                        calc(-1 * var(--w)) calc(-1 * var(--w)) 0 var(--c),
+                        var(--w) calc(-1 * var(--w)) 0 var(--c),
+                        calc(-1 * var(--w)) var(--w) 0 var(--c), 0 var(--w) 0 var(--c),
+                        0 calc(-1 * var(--w)) 0 var(--c), var(--w) 0 0 var(--c),
+                        calc(-1 * var(--w)) 0 0 var(--c);
             }
       </style>
 
