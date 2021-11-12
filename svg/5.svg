@@ -19,7 +19,7 @@
             }
 
             rect:nth-of-type(5)~rect {
-                  fill: white;
+                  fill: transparent;
             }
 
             text {

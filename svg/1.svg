@@ -20,7 +20,7 @@
             }
 
             rect:first-of-type~rect {
-                  fill: white;
+                  fill: transparent;
             }
 
             text {

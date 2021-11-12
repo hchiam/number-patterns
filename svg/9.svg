@@ -17,7 +17,7 @@
             }
 
             rect:nth-of-type(9)~rect {
-                  fill: white;
+                  fill: transparent;
             }
 
             text {
