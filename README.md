@@ -38,3 +38,11 @@ A few years ago I noticed some patterns. I thought I'd document them.
 
 - The # = the last digit in the number. Landing on a darker square = +10.
 - For example, 7 x 5 = 35: last digit is 5, and landing on 3 dark squares = +30.
+
+## example sequence:
+
+7: last digits:
+
+| 7   | 4                                          | 1                                          | 8   | 5                                          | 2                                          | 9   | 6                                          | 3                                          | 0                                          | 7   | 4                                          | 1                                          | 8   | 5                                          | 2                                          | 9   | 6                                          | 3                                          | 0                                          | ... |
+| --- | ------------------------------------------ | ------------------------------------------ | --- | ------------------------------------------ | ------------------------------------------ | --- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | --- | ------------------------------------------ | ------------------------------------------ | --- | ------------------------------------------ | ------------------------------------------ | --- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | --- |
+|     | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> |     | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> |     | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> |     | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> |     | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> |     | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> | <img align="center" src="svg/grey10.svg"/> | ... |
