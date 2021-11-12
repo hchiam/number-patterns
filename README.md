@@ -41,7 +41,7 @@ A few years ago I noticed some patterns. I thought I'd document them.
 
 ## example sequence:
 
-7: last digits:
+7: last digits: 74185296307418529630...
 
 | 7   | 4   | 1   | 8   | 5   | 2   | 9   | 6   | 3   | 0   | 7   | 4   | 1   | 8   | 5   | 2   | 9   | 6   | 3   | 0   | ... |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
