@@ -30,6 +30,8 @@ A few years ago I noticed some patterns. I thought I'd document them.
 
 ## or:
 
+(rotate to put the number at the top of the "page")
+
 |                                                      |                                                                |                                                                |                                                                |
 | ---------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
 | 0: <img align="center" width="120" src="svg/0.svg"/> | 1: <img align="center" width="120" src="svg/1.svg"/>           | 2: <img align="center" width="120" src="svg/2.svg"/>           | 3: <img align="center" width="120" src="svg/rotations/3.svg"/> |
