@@ -1,5 +1,7 @@
 # number patterns
 
+A few years ago I noticed some patterns. I thought I'd document them.
+
 <img align="center" width="120" src="svg/0.svg"/>
 
 ## reading directions:
