@@ -61,7 +61,7 @@ last digits: 74185296307418529630...
 
 = 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, ...
 
-it also continues past 10, because of the modulo nature of the patterns
+it also continues past 7 x 10, because of the modulo nature of the patterns
 
 ## visual patterns:
 
