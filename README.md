@@ -47,6 +47,8 @@ A few years ago I noticed some patterns. I thought I'd document them.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     | +10 | +10 |     | +10 | +10 |     | +10 | +10 | +10 |     | +10 | +10 |     | +10 | +10 |     | +10 | +10 | +10 | ... |
 
+it also continues past 10, because of the modulo nature of the patterns
+
 ## visual patterns:
 
 just 4 rules:
