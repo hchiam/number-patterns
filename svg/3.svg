@@ -69,36 +69,36 @@
             width="10"
             height="10" />
 
-      <text x="12.5"
-            y="18"
+      <text x="12"
+            y="19"
             fill="black">0</text>
-      <text x="22.5"
-            y="18"
+      <text x="22"
+            y="19"
             fill="black">1</text>
-      <text x="32.5"
-            y="18"
+      <text x="32"
+            y="19"
             fill="black">2</text>
-      <text x="42.5"
-            y="18"
+      <text x="42"
+            y="19"
             fill="black">3</text>
 
-      <text x="22.5"
-            y="28"
+      <text x="22"
+            y="29"
             fill="black">4</text>
-      <text x="32.5"
-            y="28"
+      <text x="32"
+            y="29"
             fill="black">5</text>
-      <text x="42.5"
-            y="28"
+      <text x="42"
+            y="29"
             fill="black">6</text>
 
-      <text x="22.5"
-            y="38"
+      <text x="22"
+            y="39"
             fill="black">7</text>
-      <text x="32.5"
-            y="38"
+      <text x="32"
+            y="39"
             fill="black">8</text>
-      <text x="42.5"
-            y="38"
+      <text x="42"
+            y="39"
             fill="black">9</text>
 </svg>
