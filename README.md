@@ -49,15 +49,15 @@ A few years ago I noticed some patterns. I thought I'd document them.
 
 ## example sequence for 7:
 
+<img align="center" width="120" src="svg/rotations/7.svg"/> , or <img align="center" width="120" src="svg/7.svg"/> and <img align="center" width="120" src="svg/reading-direction/4-or-7.svg"/>
+
 last digits: 74185296307418529630...
 
 | 7   | 4   | 1   | 8   | 5   | 2   | 9   | 6   | 3   | 0   | 7   | 4   | 1   | 8   | 5   | 2   | 9   | 6   | 3   | 0   | ... |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     | +10 | +10 |     | +10 | +10 |     | +10 | +10 | +10 |     | +10 | +10 |     | +10 | +10 |     | +10 | +10 | +10 | ... |
 
-<img align="center" width="120" src="svg/rotations/7.svg"/> , or <img align="center" width="120" src="svg/7.svg"/> and <img align="center" width="120" src="svg/reading-direction/4-or-7.svg"/>
-
-7, 14, 21, 28, 35, 42, 49, 56, 63, 70, ...
+= 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, ...
 
 it also continues past 10, because of the modulo nature of the patterns
 
