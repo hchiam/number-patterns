@@ -55,6 +55,10 @@ A few years ago I noticed some patterns. I thought I'd document them.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     | +10 | +10 |     | +10 | +10 |     | +10 | +10 | +10 |     | +10 | +10 |     | +10 | +10 |     | +10 | +10 | +10 | ... |
 
+<img align="center" width="120" src="svg/rotations/7.svg"/>
+
+7, 14, 21, 28, 35, 42, 49, 56, 63, 70, ...
+
 it also continues past 10, because of the modulo nature of the patterns
 
 ## visual patterns:
