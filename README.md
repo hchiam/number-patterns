@@ -55,3 +55,17 @@ just 4 rules:
 - **odd:** read the "number pad" like a book (the nominal number should be at the top of the "page"), and every "step" on a darker square = +10.
 - **even:** read the "number pad" like a book (the nominal number should be at the top of the "page"), but "step" on every other like a "checkerboard" pattern, and every "step" _**on**_ a darker square = +10.
 - **5:** move like a chess knight in "J" shaped jumps, but _**not**_ in "L" shaped jumps, and every "step" on a darker square = +10.
+
+then you get the:
+
+```text
+x times tables
++ addition tables
+```
+
+and you could also reverse the patterns to get:
+
+```text
+÷ = reverse of x pattern
+- = reverse of + pattern
+```
