@@ -68,9 +68,20 @@ it also continues past 7 x 10, because of the modulo nature of the patterns
 just 4 rules:
 
 - **0:** do nothing.
+
+  <img align="center" src="svg/0.svg"/>
+
 - **odd:** read the "number pad" like a book (the nominal number should be at the top of the "page"), and every "step" on a darker square = +10.
+
+  <img align="center" src="svg/reading-direction/1-or-2.svg"/><img align="center" src="svg/1.svg"/>
+
 - **even:** read the "number pad" like a book (the nominal number should be at the top of the "page"), but "step" on every other like a "checkerboard" pattern, and every "step" _**on**_ a darker square = +10.
+
+  <img align="center" src="svg/reading-direction/1-or-2.svg"/><img align="center" src="svg/2.svg"/>
+
 - **5:** move like a chess knight in "J" shaped jumps, but _**not**_ in "L" shaped jumps, and every "step" on a darker square = +10.
+
+  <img align="center" src="svg/reading-direction/5.svg"/><img align="center" src="svg/5.svg"/>
 
 then you get the:
 
