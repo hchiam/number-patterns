@@ -49,7 +49,7 @@ A few years ago I noticed some patterns. I thought I'd document them.
 
 ## example sequence for 7:
 
-<img align="center" width="120" src="svg/rotations/7.svg"/> , or <img align="center" width="120" src="svg/7.svg"/> and <img align="center" width="120" src="svg/reading-direction/4-or-7.svg"/>
+<img align="center" width="120" src="svg/rotations/7.svg"/> , or alternatively: <img align="center" width="120" src="svg/7.svg"/> and <img align="center" width="120" src="svg/reading-direction/4-or-7.svg"/>
 
 last digits: 74185296307418529630...
 
