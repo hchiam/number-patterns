@@ -36,11 +36,11 @@ A few years ago I noticed some patterns. I thought I'd document them.
 |                                                      | 4: <img align="center" width="120" src="svg/rotations/4.svg"/> | 5: <img align="center" width="120" src="svg/5.svg"/>           | 6: <img align="center" width="120" src="svg/rotations/6.svg"/> |
 |                                                      | 7: <img align="center" width="120" src="svg/rotations/7.svg"/> | 8: <img align="center" width="120" src="svg/rotations/8.svg"/> | 9: <img align="center" width="120" src="svg/rotations/9.svg"/> |
 
-## last digit = #:
+## # = last digit:
 
 <img align="center" width="120" src="svg/last-digit.svg"/>
 
-## +10: (and last digit = #)
+## darker square = +10: (and # = last digit)
 
 <img align="center" width="120" src="svg/+10.svg"/>
 
