@@ -30,11 +30,11 @@ A few years ago I noticed some patterns. I thought I'd document them.
 
 ## or:
 
-|                                                      |                                                                                       |                                                                                       |                                                                                        |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 0: <img align="center" width="120" src="svg/0.svg"/> | 1: <img align="center" width="120" src="svg/1.svg"/>                                  | 2: <img align="center" width="120" src="svg/2.svg"/>                                  | 3: <img align="center" width="120" src="svg/3.svg" style="transform:rotate(-90deg)"/>  |
-|                                                      | 4: <img align="center" width="120" src="svg/4.svg"  style="transform:rotate(90deg)"/> | 5: <img align="center" width="120" src="svg/5.svg"/>                                  | 6: <img align="center" width="120" src="svg/6.svg"  style="transform:rotate(-90deg)"/> |
-|                                                      | 7: <img align="center" width="120" src="svg/7.svg"  style="transform:rotate(90deg)"/> | 8: <img align="center" width="120" src="svg/8.svg" style="transform:rotate(180deg)"/> | 9: <img align="center" width="120" src="svg/9.svg" style="transform:rotate(180deg)"/>  |
+|                                                      |                                                                |                                                                |                                                                |
+| ---------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| 0: <img align="center" width="120" src="svg/0.svg"/> | 1: <img align="center" width="120" src="svg/1.svg"/>           | 2: <img align="center" width="120" src="svg/2.svg"/>           | 3: <img align="center" width="120" src="svg/rotations/3.svg"/> |
+|                                                      | 4: <img align="center" width="120" src="svg/rotations/4.svg"/> | 5: <img align="center" width="120" src="svg/5.svg"/>           | 6: <img align="center" width="120" src="svg/rotations/6.svg"/> |
+|                                                      | 7: <img align="center" width="120" src="svg/rotations/7.svg"/> | 8: <img align="center" width="120" src="svg/rotations/8.svg"/> | 9: <img align="center" width="120" src="svg/rotations/9.svg"/> |
 
 ## last digit = #:
 
