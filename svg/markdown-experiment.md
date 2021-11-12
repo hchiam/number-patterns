@@ -1,2 +1,8 @@
-<img align="center" src="data:image/svg+xml;utf8,<svg style='background:white;padding:0;margin:0;' width='1.5rem' height='1.5rem' xmlns='http://www.w3.org/2000/svg'><foreignObject width='100%' height='100%'><div xmlns='http://www.w3.org/1999/xhtml'><style>.container {font-family: avenir, monospace;display: flex;align-items: center;justify-content: center;border-radius: 0.1rem;color: black;background: yellow;width: 1rem;height: 1rem;padding: 0.25rem;}</style><div class='container'><p>
-0</p></div></div></foreignObject></svg>"/>
+<img align="center" src="blue.svg"/>
+<img align="center" src="yellow.svg"/>
+
+|                                   |                                   |                                   |                                   |
+| --------------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |
+| <img align="center" src="0.svg"/> | <img align="center" src="1.svg"/> | <img align="center" src="2.svg"/> | <img align="center" src="3.svg"/> |
+|                                   | <img align="center" src="4.svg"/> | <img align="center" src="5.svg"/> | <img align="center" src="6.svg"/> |
+|                                   | <img align="center" src="7.svg"/> | <img align="center" src="8.svg"/> | <img align="center" src="9.svg"/> |

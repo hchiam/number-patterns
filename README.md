@@ -1,45 +1,7 @@
-I think it might be more efficiently done with excel and pics.
+# number patterns
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="svg/yellow.svg">
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-    <td>
-      <img align="center" src="svg/yellow.svg"/>
-    </td>
-  </tr>
-</table>
-
+|                                       |                                       |                                       |                                       |
+| ------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| <img align="center" src="svg/0.svg"/> | <img align="center" src="svg/1.svg"/> | <img align="center" src="svg/2.svg"/> | <img align="center" src="svg/3.svg"/> |
+|                                       | <img align="center" src="svg/4.svg"/> | <img align="center" src="svg/5.svg"/> | <img align="center" src="svg/6.svg"/> |
+|                                       | <img align="center" src="svg/7.svg"/> | <img align="center" src="svg/8.svg"/> | <img align="center" src="svg/9.svg"/> |
