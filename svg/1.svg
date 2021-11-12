@@ -24,6 +24,7 @@
             }
 
             text {
+                  font-family: avenir, tahoma;
                   font-size: 0.75rem;
             }
       </style>
