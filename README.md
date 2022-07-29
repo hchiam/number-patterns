@@ -93,6 +93,6 @@ x times tables
 and you could also reverse the patterns to get:
 
 ```text
-÷ = reverse of x pattern
+/ = reverse of x pattern
 - = reverse of + pattern
 ```
