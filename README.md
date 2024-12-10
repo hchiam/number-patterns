@@ -4,6 +4,10 @@ A few years ago I noticed some patterns. I thought I'd document them.
 
 <img align="center" width="120" src="svg/0.svg"/>
 
+## quick mental model simplified mnemonic:
+
+<img align="center" src="simplified_mnemonic.jpg" height="100"/>
+
 ## reading directions:
 
 |     |                                                                             |                                                                             |                                                                             |
